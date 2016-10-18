@@ -1,0 +1,88 @@
+CV1 not in random order. h0 rejected with p = 2.5787e-08
+CV2 in random order. h0 accepted with p = 0.64256
+Current stimulus vector distances from history entry No. 1: CV1: 0 and CV2: 36.524
+Found similar cv1 vector...
+Found in total 1 similar cv1 vectors and 0 similar cv2 vectors from the history.
+Current stimulus:
+    'c04_c5.jpg'
+
+Reference image:
+c12_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c02_c5.jpg
+    99
+
+    98
+
+    97
+
+Continue button pressed
+    ImageQuality: 97
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: 0
+           image_file: {'c04_c5.jpg'}
+         ImageQuality: 97
+    evaluation_number: 1
+              subject: {'mikko2'}
+                  sex: {'male'}
+                  age: {'34'}
+       subject_number: {[2]}
+          timeElapsed: 154
+
+Current stimulus:
+    'c10_c5.jpg'
+
+Reference image:
+c08_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c12_c5.jpg

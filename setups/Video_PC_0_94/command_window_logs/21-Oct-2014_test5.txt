@@ -1,0 +1,330 @@
+Test for randomness using the runs test:
+CV1_1 in random order. h0 accepted with p = 0.2
+CV1_2 in random order. h0 accepted with p = 1
+CV2_1 in random order. h0 accepted with p = 0.2
+CV2_2 in random order. h0 accepted with p = 0.4
+
+measure =
+
+     6
+
+
+measure =
+
+     6
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmposOpeningUnknownURL
+Player 1: wmppsPlaying
+Player 2: wmppsPlaying
+Player 1 volume:2
+Player 2 volume:2
+    errorCount: 0
+
+    errorCount: 0
+
+Valittu:Right video
+Continue button pressed
+    Selectthebettervideo: 'Right video'
+                   vasen: 0
+                   oikea: 1
+
+             cv1_1_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_1_order: [1 1 2 2 1 1 1 1 1 1 2 2]
+             cv1_2_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_2_order: [3 3 3 3 2 2 3 3 2 2 3 3]
+          reWatchStimuli: [0 0]
+                  order2: [1 0]
+                   rank2: [0 1]
+                  order1: [3 0]
+                   rank1: [3 0]
+               camera_nr: [3 1]
+                    rank: [1 2]
+                 stimuli: {'sport3.mp4'  'sport1.mp4'}
+    Selectthebettervideo: {'Right video'  'Right video'}
+             timeElapsed: [3 3]
+       evaluation_number: [1 1]
+                 subject: {'test5'  'test5'}
+                     sex: {'male'  'male'}
+                     age: {'33'  '33'}
+          subject_number: {[5]  [5]}
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmposOpeningUnknownURL
+Player 1: wmppsPlaying
+Player 2: wmppsPlaying
+Player 1 volume:2
+Player 2 volume:2
+    errorCount: 0
+
+    errorCount: 0
+
+Valittu:Right video
+Continue button pressed
+    Selectthebettervideo: 'Right video'
+                   vasen: 0
+                   oikea: 1
+
+             cv1_1_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_1_order: [1 1 2 2 1 1 1 1 1 1 2 2]
+             cv1_2_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_2_order: [3 3 3 3 2 2 3 3 2 2 3 3]
+          reWatchStimuli: [2x2 double]
+                  order2: [1 0 2 0]
+                   rank2: [0 1 0 2]
+                  order1: [3 0 3 0]
+                   rank1: [3 0 3 0]
+               camera_nr: [3 1 3 2]
+                    rank: [1 2 1 2]
+                 stimuli: {'sport3.mp4'  'sport1.mp4'  'sport3.mp4'  'sport2.mp4'}
+    Selectthebettervideo: {1x4 cell}
+             timeElapsed: [3 3 2 2]
+       evaluation_number: [1 1 2 2]
+                 subject: {'test5'  'test5'  'test5'  'test5'}
+                     sex: {'male'  'male'  'male'  'male'}
+                     age: {'33'  '33'  '33'  '33'}
+          subject_number: {[5]  [5]  [5]  [5]}
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmposOpeningUnknownURL
+Player 1: wmppsPlaying
+Player 2: wmppsPlaying
+Player 1 volume:2
+Player 2 volume:2
+    errorCount: 0
+
+    errorCount: 0
+
+Valittu:Left video
+Continue button pressed
+    Selectthebettervideo: 'Left video'
+                   vasen: 1
+                   oikea: 0
+
+             cv1_1_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_1_order: [1 1 2 2 1 1 1 1 1 1 2 2]
+             cv1_2_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_2_order: [3 3 3 3 2 2 3 3 2 2 3 3]
+          reWatchStimuli: [3x2 double]
+                  order2: [1 0 2 0 2 0]
+                   rank2: [0 1 0 2 0 2]
+                  order1: [3 0 3 0 1 0]
+                   rank1: [3 0 3 0 1 0]
+               camera_nr: [3 1 3 2 1 2]
+                    rank: [1 2 1 2 1 2]
+                 stimuli: {1x6 cell}
+    Selectthebettervideo: {1x6 cell}
+             timeElapsed: [3 3 2 2 2 2]
+       evaluation_number: [1 1 2 2 3 3]
+                 subject: {'test5'  'test5'  'test5'  'test5'  'test5'  'test5'}
+                     sex: {'male'  'male'  'male'  'male'  'male'  'male'}
+                     age: {'33'  '33'  '33'  '33'  '33'  '33'}
+          subject_number: {[5]  [5]  [5]  [5]  [5]  [5]}
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmposOpeningUnknownURL
+Player 1: wmppsPlaying
+Player 2: wmppsPlaying
+Player 1 volume:2
+Player 2 volume:2
+    errorCount: 0
+
+    errorCount: 0
+
+Valittu:Right video
+Continue button pressed
+    Selectthebettervideo: 'Right video'
+                   vasen: 0
+                   oikea: 1
+
+             cv1_1_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_1_order: [1 1 2 2 1 1 1 1 1 1 2 2]
+             cv1_2_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_2_order: [3 3 3 3 2 2 3 3 2 2 3 3]
+          reWatchStimuli: [4x2 double]
+                  order2: [1 0 2 0 2 0 1 0]
+                   rank2: [0 1 0 2 0 2 0 1]
+                  order1: [3 0 3 0 1 0 3 0]
+                   rank1: [3 0 3 0 1 0 3 0]
+               camera_nr: [3 1 3 2 1 2 3 1]
+                    rank: [1 2 1 2 1 2 1 2]
+                 stimuli: {1x8 cell}
+    Selectthebettervideo: {1x8 cell}
+             timeElapsed: [3 3 2 2 2 2 2 2]
+       evaluation_number: [1 1 2 2 3 3 4 4]
+                 subject: {1x8 cell}
+                     sex: {1x8 cell}
+                     age: {'33'  '33'  '33'  '33'  '33'  '33'  '33'  '33'}
+          subject_number: {[5]  [5]  [5]  [5]  [5]  [5]  [5]  [5]}
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+Player 1: wmppsPlaying
+Player 2: wmppsPlaying
+Player 1 volume:2
+Player 2 volume:2
+    errorCount: 0
+
+    errorCount: 0
+
+Valittu:Left video
+Continue button pressed
+    Selectthebettervideo: 'Left video'
+                   vasen: 1
+                   oikea: 0
+
+             cv1_1_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_1_order: [1 1 2 2 1 1 1 1 1 1 2 2]
+             cv1_2_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_2_order: [3 3 3 3 2 2 3 3 2 2 3 3]
+          reWatchStimuli: [5x2 double]
+                  order2: [1 0 2 0 2 0 1 0 2 0]
+                   rank2: [0 1 0 2 0 2 0 1 0 2]
+                  order1: [3 0 3 0 1 0 3 0 1 0]
+                   rank1: [3 0 3 0 1 0 3 0 1 0]
+               camera_nr: [3 1 3 2 1 2 3 1 1 2]
+                    rank: [1 2 1 2 1 2 1 2 1 2]
+                 stimuli: {1x10 cell}
+    Selectthebettervideo: {1x10 cell}
+             timeElapsed: [3 3 2 2 2 2 2 2 2 2]
+       evaluation_number: [1 1 2 2 3 3 4 4 5 5]
+                 subject: {1x10 cell}
+                     sex: {1x10 cell}
+                     age: {1x10 cell}
+          subject_number: {[5]  [5]  [5]  [5]  [5]  [5]  [5]  [5]  [5]  [5]}
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmposOpeningUnknownURL
+Player 1: wmppsPlaying
+Player 2: wmppsPlaying
+Player 1 volume:2
+Player 2 volume:2
+    errorCount: 0
+
+    errorCount: 0
+
+Valittu:Left video
+Continue button pressed
+    Selectthebettervideo: 'Left video'
+                   vasen: 1
+                   oikea: 0
+
+             cv1_1_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_1_order: [1 1 2 2 1 1 1 1 1 1 2 2]
+             cv1_2_order: [2 2 2 2 2 2 1 1 1 1 1 1]
+             cv2_2_order: [3 3 3 3 2 2 3 3 2 2 3 3]
+          reWatchStimuli: [6x2 double]
+                  order2: [1 0 2 0 2 0 1 0 2 0 3 0]
+                   rank2: [0 1 0 2 0 2 0 1 0 2 0 3]
+                  order1: [3 0 3 0 1 0 3 0 1 0 2 0]
+                   rank1: [3 0 3 0 1 0 3 0 1 0 2 0]
+               camera_nr: [3 1 3 2 1 2 3 1 1 2 2 3]
+                    rank: [1 2 1 2 1 2 1 2 1 2 1 2]
+                 stimuli: {1x12 cell}
+    Selectthebettervideo: {1x12 cell}
+             timeElapsed: [3 3 2 2 2 2 2 2 2 2 2 2]
+       evaluation_number: [1 1 2 2 3 3 4 4 5 5 6 6]
+                 subject: {1x12 cell}
+                     sex: {1x12 cell}
+                     age: {1x12 cell}
+          subject_number: {1x12 cell}
+
+Writing cross-tabulations...
+Done.
+Data saved to: C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\setups\Video_PC_0_94\Video_PC_0_94_data.xls

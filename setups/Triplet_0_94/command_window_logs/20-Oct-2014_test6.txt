@@ -1,0 +1,670 @@
+Number of combinations in each content: 7
+Pipe indices: 
+     1     2     4
+     2     3     5
+     3     4     6
+     4     5     7
+     5     6     1
+     6     7     2
+     7     1     3
+
+Stimulus vectors:
+     1     2     1     3     1     5
+     1     4     1     5     1     7
+     1     1     1     2     1     4
+     1     6     1     7     1     2
+     1     7     1     1     1     3
+     1     3     1     4     1     6
+     1     5     1     6     1     1
+     3     3     3     4     3     6
+     3     6     3     7     3     2
+     3     4     3     5     3     7
+     3     7     3     1     3     3
+     3     1     3     2     3     4
+     3     5     3     6     3     1
+     3     2     3     3     3     5
+     2     4     2     5     2     7
+     2     5     2     6     2     1
+     2     6     2     7     2     2
+     2     1     2     2     2     4
+     2     7     2     1     2     3
+     2     3     2     4     2     6
+     2     2     2     3     2     5
+
+Left image:2
+Left image:1
+Center image:2
+Left image:2
+Center image:1
+Continue button pressed
+           vasen: 2
+    keskimmainen: 1
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0]
+                rank2: [0 2 0]
+               order1: [3 0 0]
+                rank1: [3 0 0]
+               order3: [5 0 0]
+                rank3: [0 0 5]
+            camera_nr: [3 2 5]
+                 rank: [1 2 3]
+              stimuli: {'a03_c2.jpg'  'a02_c2.jpg'  'a05_c2.jpg'}
+          timeElapsed: [5 5 5]
+    evaluation_number: [1 1 1]
+              subject: {'test6'  'test6'  'test6'}
+                  sex: {'male'  'male'  'male'}
+                  age: {'30'  '30'  '30'}
+       subject_number: {[6]  [6]  [6]}
+
+Left image:2
+Left image:1
+Center image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0 5 0 0]
+                rank2: [0 2 0 0 5 0]
+               order1: [3 0 0 4 0 0]
+                rank1: [3 0 0 4 0 0]
+               order3: [5 0 0 7 0 0]
+                rank3: [0 0 5 0 0 7]
+            camera_nr: [3 2 5 4 5 7]
+                 rank: [1 2 3 1 2 3]
+              stimuli: {1x6 cell}
+          timeElapsed: [5 5 5 3 3 3]
+    evaluation_number: [1 1 1 2 2 2]
+              subject: {1x6 cell}
+                  sex: {1x6 cell}
+                  age: {'30'  '30'  '30'  '30'  '30'  '30'}
+       subject_number: {[6]  [6]  [6]  [6]  [6]  [6]}
+
+Center image:2
+Center image:1
+Left image:2
+Continue button pressed
+           vasen: 2
+    keskimmainen: 1
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0 5 0 0 1 0 0]
+                rank2: [0 2 0 0 5 0 0 1 0]
+               order1: [3 0 0 4 0 0 2 0 0]
+                rank1: [3 0 0 4 0 0 2 0 0]
+               order3: [5 0 0 7 0 0 4 0 0]
+                rank3: [0 0 5 0 0 7 0 0 4]
+            camera_nr: [3 2 5 4 5 7 2 1 4]
+                 rank: [1 2 3 1 2 3 1 2 3]
+              stimuli: {1x9 cell}
+          timeElapsed: [5 5 5 3 3 3 3 3 3]
+    evaluation_number: [1 1 1 2 2 2 3 3 3]
+              subject: {1x9 cell}
+                  sex: {1x9 cell}
+                  age: {1x9 cell}
+       subject_number: {[6]  [6]  [6]  [6]  [6]  [6]  [6]  [6]  [6]}
+
+Right image:2
+Right image:1
+Left image:2
+Continue button pressed
+           vasen: 2
+    keskimmainen: 3
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0 5 0 0 1 0 0 6 0 0]
+                rank2: [0 2 0 0 5 0 0 1 0 0 6 0]
+               order1: [3 0 0 4 0 0 2 0 0 2 0 0]
+                rank1: [3 0 0 4 0 0 2 0 0 2 0 0]
+               order3: [5 0 0 7 0 0 4 0 0 7 0 0]
+                rank3: [0 0 5 0 0 7 0 0 4 0 0 7]
+            camera_nr: [3 2 5 4 5 7 2 1 4 2 6 7]
+                 rank: [1 2 3 1 2 3 1 2 3 1 2 3]
+              stimuli: {1x12 cell}
+          timeElapsed: [5 5 5 3 3 3 3 3 3 5 5 5]
+    evaluation_number: [1 1 1 2 2 2 3 3 3 4 4 4]
+              subject: {1x12 cell}
+                  sex: {1x12 cell}
+                  age: {1x12 cell}
+       subject_number: {1x12 cell}
+
+Right image:2
+Right image:1
+Center image:2
+Continue button pressed
+           vasen: 3
+    keskimmainen: 2
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0 5 0 0 1 0 0 6 0 0 1 0 0]
+                rank2: [0 2 0 0 5 0 0 1 0 0 6 0 0 1 0]
+               order1: [3 0 0 4 0 0 2 0 0 2 0 0 3 0 0]
+                rank1: [3 0 0 4 0 0 2 0 0 2 0 0 3 0 0]
+               order3: [5 0 0 7 0 0 4 0 0 7 0 0 7 0 0]
+                rank3: [0 0 5 0 0 7 0 0 4 0 0 7 0 0 7]
+            camera_nr: [3 2 5 4 5 7 2 1 4 2 6 7 3 1 7]
+                 rank: [1 2 3 1 2 3 1 2 3 1 2 3 1 2 3]
+              stimuli: {1x15 cell}
+          timeElapsed: [5 5 5 3 3 3 3 3 3 5 5 5 3 3 3]
+    evaluation_number: [1 1 1 2 2 2 3 3 3 4 4 4 5 5 5]
+              subject: {1x15 cell}
+                  sex: {1x15 cell}
+                  age: {1x15 cell}
+       subject_number: {1x15 cell}
+
+Center image:2
+Center image:1
+Left image:2
+Center image:2
+Left image:1
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0 5 0 0 1 0 0 6 0 0 1 0 0 4 0 0]
+                rank2: [0 2 0 0 5 0 0 1 0 0 6 0 0 1 0 0 4 0]
+               order1: [3 0 0 4 0 0 2 0 0 2 0 0 3 0 0 3 0 0]
+                rank1: [3 0 0 4 0 0 2 0 0 2 0 0 3 0 0 3 0 0]
+               order3: [5 0 0 7 0 0 4 0 0 7 0 0 7 0 0 6 0 0]
+                rank3: [0 0 5 0 0 7 0 0 4 0 0 7 0 0 7 0 0 6]
+            camera_nr: [3 2 5 4 5 7 2 1 4 2 6 7 3 1 7 3 4 6]
+                 rank: [1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3]
+              stimuli: {1x18 cell}
+          timeElapsed: [5 5 5 3 3 3 3 3 3 5 5 5 3 3 3 4 4 4]
+    evaluation_number: [1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6]
+              subject: {1x18 cell}
+                  sex: {1x18 cell}
+                  age: {1x18 cell}
+       subject_number: {1x18 cell}
+
+Left image:2
+Left image:1
+Center image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [2 0 0 5 0 0 1 0 0 6 0 0 1 0 0 4 0 0 6 0 0]
+                rank2: [0 2 0 0 5 0 0 1 0 0 6 0 0 1 0 0 4 0 0 6 0]
+               order1: [3 0 0 4 0 0 2 0 0 2 0 0 3 0 0 3 0 0 5 0 0]
+                rank1: [3 0 0 4 0 0 2 0 0 2 0 0 3 0 0 3 0 0 5 0 0]
+               order3: [5 0 0 7 0 0 4 0 0 7 0 0 7 0 0 6 0 0 1 0 0]
+                rank3: [0 0 5 0 0 7 0 0 4 0 0 7 0 0 7 0 0 6 0 0 1]
+            camera_nr: [3 2 5 4 5 7 2 1 4 2 6 7 3 1 7 3 4 6 5 6 1]
+                 rank: [1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3]
+              stimuli: {1x21 cell}
+          timeElapsed: [5 5 5 3 3 3 3 3 3 5 5 5 3 3 3 4 4 4 3 3 3]
+    evaluation_number: [1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7]
+              subject: {1x21 cell}
+                  sex: {1x21 cell}
+                  age: {1x21 cell}
+       subject_number: {1x21 cell}
+
+Right image:2
+Right image:1
+Center image:2
+Continue button pressed
+           vasen: 3
+    keskimmainen: 2
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x24 double]
+                rank2: [1x24 double]
+               order1: [1x24 double]
+                rank1: [1x24 double]
+               order3: [1x24 double]
+                rank3: [1x24 double]
+            camera_nr: [1x24 double]
+                 rank: [1x24 double]
+              stimuli: {1x24 cell}
+          timeElapsed: [1x24 double]
+    evaluation_number: [1x24 double]
+              subject: {1x24 cell}
+                  sex: {1x24 cell}
+                  age: {1x24 cell}
+       subject_number: {1x24 cell}
+
+Right image:2
+Right image:1
+Left image:2
+Continue button pressed
+           vasen: 2
+    keskimmainen: 3
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x27 double]
+                rank2: [1x27 double]
+               order1: [1x27 double]
+                rank1: [1x27 double]
+               order3: [1x27 double]
+                rank3: [1x27 double]
+            camera_nr: [1x27 double]
+                 rank: [1x27 double]
+              stimuli: {1x27 cell}
+          timeElapsed: [1x27 double]
+    evaluation_number: [1x27 double]
+              subject: {1x27 cell}
+                  sex: {1x27 cell}
+                  age: {1x27 cell}
+       subject_number: {1x27 cell}
+
+Center image:2
+Center image:1
+Right image:2
+Continue button pressed
+           vasen: 3
+    keskimmainen: 1
+           oikea: 2
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x30 double]
+                rank2: [1x30 double]
+               order1: [1x30 double]
+                rank1: [1x30 double]
+               order3: [1x30 double]
+                rank3: [1x30 double]
+            camera_nr: [1x30 double]
+                 rank: [1x30 double]
+              stimuli: {1x30 cell}
+          timeElapsed: [1x30 double]
+    evaluation_number: [1x30 double]
+              subject: {1x30 cell}
+                  sex: {1x30 cell}
+                  age: {1x30 cell}
+       subject_number: {1x30 cell}
+
+Right image:2
+Right image:1
+Center image:2
+Continue button pressed
+           vasen: 3
+    keskimmainen: 2
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x33 double]
+                rank2: [1x33 double]
+               order1: [1x33 double]
+                rank1: [1x33 double]
+               order3: [1x33 double]
+                rank3: [1x33 double]
+            camera_nr: [1x33 double]
+                 rank: [1x33 double]
+              stimuli: {1x33 cell}
+          timeElapsed: [1x33 double]
+    evaluation_number: [1x33 double]
+              subject: {1x33 cell}
+                  sex: {1x33 cell}
+                  age: {1x33 cell}
+       subject_number: {1x33 cell}
+
+Left image:2
+Left image:1
+Center image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x36 double]
+                rank2: [1x36 double]
+               order1: [1x36 double]
+                rank1: [1x36 double]
+               order3: [1x36 double]
+                rank3: [1x36 double]
+            camera_nr: [1x36 double]
+                 rank: [1x36 double]
+              stimuli: {1x36 cell}
+          timeElapsed: [1x36 double]
+    evaluation_number: [1x36 double]
+              subject: {1x36 cell}
+                  sex: {1x36 cell}
+                  age: {1x36 cell}
+       subject_number: {1x36 cell}
+
+Left image:2
+Left image:1
+Center image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x39 double]
+                rank2: [1x39 double]
+               order1: [1x39 double]
+                rank1: [1x39 double]
+               order3: [1x39 double]
+                rank3: [1x39 double]
+            camera_nr: [1x39 double]
+                 rank: [1x39 double]
+              stimuli: {1x39 cell}
+          timeElapsed: [1x39 double]
+    evaluation_number: [1x39 double]
+              subject: {1x39 cell}
+                  sex: {1x39 cell}
+                  age: {1x39 cell}
+       subject_number: {1x39 cell}
+
+Right image:2
+Right image:1
+Center image:2
+Continue button pressed
+           vasen: 3
+    keskimmainen: 2
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x42 double]
+                rank2: [1x42 double]
+               order1: [1x42 double]
+                rank1: [1x42 double]
+               order3: [1x42 double]
+                rank3: [1x42 double]
+            camera_nr: [1x42 double]
+                 rank: [1x42 double]
+              stimuli: {1x42 cell}
+          timeElapsed: [1x42 double]
+    evaluation_number: [1x42 double]
+              subject: {1x42 cell}
+                  sex: {1x42 cell}
+                  age: {1x42 cell}
+       subject_number: {1x42 cell}
+
+Left image:2
+Left image:1
+Right image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 3
+           oikea: 2
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x45 double]
+                rank2: [1x45 double]
+               order1: [1x45 double]
+                rank1: [1x45 double]
+               order3: [1x45 double]
+                rank3: [1x45 double]
+            camera_nr: [1x45 double]
+                 rank: [1x45 double]
+              stimuli: {1x45 cell}
+          timeElapsed: [1x45 double]
+    evaluation_number: [1x45 double]
+              subject: {1x45 cell}
+                  sex: {1x45 cell}
+                  age: {1x45 cell}
+       subject_number: {1x45 cell}
+
+Right image:2
+Right image:1
+Left image:2
+Continue button pressed
+           vasen: 2
+    keskimmainen: 3
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x48 double]
+                rank2: [1x48 double]
+               order1: [1x48 double]
+                rank1: [1x48 double]
+               order3: [1x48 double]
+                rank3: [1x48 double]
+            camera_nr: [1x48 double]
+                 rank: [1x48 double]
+              stimuli: {1x48 cell}
+          timeElapsed: [1x48 double]
+    evaluation_number: [1x48 double]
+              subject: {1x48 cell}
+                  sex: {1x48 cell}
+                  age: {1x48 cell}
+       subject_number: {1x48 cell}
+
+Right image:2
+Right image:1
+Left image:2
+Continue button pressed
+           vasen: 2
+    keskimmainen: 3
+           oikea: 1
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x51 double]
+                rank2: [1x51 double]
+               order1: [1x51 double]
+                rank1: [1x51 double]
+               order3: [1x51 double]
+                rank3: [1x51 double]
+            camera_nr: [1x51 double]
+                 rank: [1x51 double]
+              stimuli: {1x51 cell}
+          timeElapsed: [1x51 double]
+    evaluation_number: [1x51 double]
+              subject: {1x51 cell}
+                  sex: {1x51 cell}
+                  age: {1x51 cell}
+       subject_number: {1x51 cell}
+
+Left image:2
+Left image:1
+Center image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x54 double]
+                rank2: [1x54 double]
+               order1: [1x54 double]
+                rank1: [1x54 double]
+               order3: [1x54 double]
+                rank3: [1x54 double]
+            camera_nr: [1x54 double]
+                 rank: [1x54 double]
+              stimuli: {1x54 cell}
+          timeElapsed: [1x54 double]
+    evaluation_number: [1x54 double]
+              subject: {1x54 cell}
+                  sex: {1x54 cell}
+                  age: {1x54 cell}
+       subject_number: {1x54 cell}
+
+Center image:2
+Center image:1
+Right image:2
+Continue button pressed
+           vasen: 3
+    keskimmainen: 1
+           oikea: 2
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x57 double]
+                rank2: [1x57 double]
+               order1: [1x57 double]
+                rank1: [1x57 double]
+               order3: [1x57 double]
+                rank3: [1x57 double]
+            camera_nr: [1x57 double]
+                 rank: [1x57 double]
+              stimuli: {1x57 cell}
+          timeElapsed: [1x57 double]
+    evaluation_number: [1x57 double]
+              subject: {1x57 cell}
+                  sex: {1x57 cell}
+                  age: {1x57 cell}
+       subject_number: {1x57 cell}
+
+Center image:2
+Center image:1
+Left image:2
+Continue button pressed
+           vasen: 2
+    keskimmainen: 1
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x60 double]
+                rank2: [1x60 double]
+               order1: [1x60 double]
+                rank1: [1x60 double]
+               order3: [1x60 double]
+                rank3: [1x60 double]
+            camera_nr: [1x60 double]
+                 rank: [1x60 double]
+              stimuli: {1x60 cell}
+          timeElapsed: [1x60 double]
+    evaluation_number: [1x60 double]
+              subject: {1x60 cell}
+                  sex: {1x60 cell}
+                  age: {1x60 cell}
+       subject_number: {1x60 cell}
+
+Left image:2
+Left image:1
+Center image:2
+Continue button pressed
+           vasen: 1
+    keskimmainen: 2
+           oikea: 3
+
+          cv1_1_order: [1x63 double]
+          cv2_1_order: [1x63 double]
+          cv1_2_order: [1x63 double]
+          cv2_2_order: [1x63 double]
+          cv1_3_order: [1x63 double]
+          cv2_3_order: [1x63 double]
+               order2: [1x63 double]
+                rank2: [1x63 double]
+               order1: [1x63 double]
+                rank1: [1x63 double]
+               order3: [1x63 double]
+                rank3: [1x63 double]
+            camera_nr: [1x63 double]
+                 rank: [1x63 double]
+              stimuli: {1x63 cell}
+          timeElapsed: [1x63 double]
+    evaluation_number: [1x63 double]
+              subject: {1x63 cell}
+                  sex: {1x63 cell}
+                  age: {1x63 cell}
+       subject_number: {1x63 cell}
+
+Writing cross-tabulations...
+Done.
+Data saved to: C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\setups\Triplet_0_94\Triplet_0_94_data.xls

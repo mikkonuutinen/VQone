@@ -1,0 +1,3046 @@
+{Warning: X values exactly equal to V are omitted.} 
+{> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2012a\toolbox\stats\stats\runstest.m',151,1)">runstest at 151</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\createRandomization.m',131,1)">createRandomization at 131</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\ACR_sbu.m',8,1)">ACR_sbu at 8</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\backgroundQuestions.m',209,1)">backgroundQuestions at 209</a>} 
+{Warning: X values exactly equal to V are omitted.} 
+{> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2012a\toolbox\stats\stats\runstest.m',151,1)">runstest at 151</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\createRandomization.m',132,1)">createRandomization at 132</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\ACR_sbu.m',8,1)">ACR_sbu at 8</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\backgroundQuestions.m',209,1)">backgroundQuestions at 209</a>} 
+CV1 not in random order. h0 rejected with p = 2.5787e-08
+CV2 in random order. h0 accepted with p = 0.15776
+Current stimulus vector distances from history entry No. 1: CV1: 10.9545 and CV2: 36.2491
+Current stimulus vector distances from history entry No. 2: CV1: 10.9545 and CV2: 41.2068
+Found in total 0 similar cv1 vectors and 0 similar cv2 vectors from the history.
+Current stimulus:
+    'a01_c2.jpg'
+
+Reference image:
+a06_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a12_c2.jpg
+    83
+
+Continue button pressed
+    ImageQuality: 83
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: 0
+           image_file: {'a01_c2.jpg'}
+         ImageQuality: 83
+    evaluation_number: 1
+              subject: {'mikko'}
+                  sex: {'male'}
+                  age: {'22'}
+       subject_number: {[1]}
+          timeElapsed: 5
+
+Current stimulus:
+    'a13_c2.jpg'
+
+Reference image:
+a12_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a15_c2.jpg
+    72
+
+Continue button pressed
+    ImageQuality: 72
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0]
+           image_file: {'a01_c2.jpg'  'a13_c2.jpg'}
+         ImageQuality: [83 72]
+    evaluation_number: [1 2]
+              subject: {'mikko'  'mikko'}
+                  sex: {'male'  'male'}
+                  age: {'22'  '22'}
+       subject_number: {[1]  [1]}
+          timeElapsed: [5 3]
+
+Current stimulus:
+    'a12_c2.jpg'
+
+Reference image:
+a13_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a06_c2.jpg
+    73
+
+Continue button pressed
+    ImageQuality: 73
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0]
+           image_file: {1x3 cell}
+         ImageQuality: [83 72 73]
+    evaluation_number: [1 2 3]
+              subject: {'mikko'  'mikko'  'mikko'}
+                  sex: {'male'  'male'  'male'}
+                  age: {'22'  '22'  '22'}
+       subject_number: {[1]  [1]  [1]}
+          timeElapsed: [5 3 3]
+
+Current stimulus:
+    'a05_c2.jpg'
+
+Reference image:
+a08_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a11_c2.jpg
+    81
+
+Continue button pressed
+    ImageQuality: 81
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0]
+           image_file: {1x4 cell}
+         ImageQuality: [83 72 73 81]
+    evaluation_number: [1 2 3 4]
+              subject: {'mikko'  'mikko'  'mikko'  'mikko'}
+                  sex: {'male'  'male'  'male'  'male'}
+                  age: {'22'  '22'  '22'  '22'}
+       subject_number: {[1]  [1]  [1]  [1]}
+          timeElapsed: [5 3 3 2]
+
+Current stimulus:
+    'a09_c2.jpg'
+
+Reference image:
+a01_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a15_c2.jpg
+    84
+
+Continue button pressed
+    ImageQuality: 84
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0]
+           image_file: {1x5 cell}
+         ImageQuality: [83 72 73 81 84]
+    evaluation_number: [1 2 3 4 5]
+              subject: {1x5 cell}
+                  sex: {1x5 cell}
+                  age: {'22'  '22'  '22'  '22'  '22'}
+       subject_number: {[1]  [1]  [1]  [1]  [1]}
+          timeElapsed: [5 3 3 2 2]
+
+Current stimulus:
+    'a14_c2.jpg'
+
+Reference image:
+a08_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a11_c2.jpg
+    87
+
+Continue button pressed
+    ImageQuality: 87
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0]
+           image_file: {1x6 cell}
+         ImageQuality: [83 72 73 81 84 87]
+    evaluation_number: [1 2 3 4 5 6]
+              subject: {1x6 cell}
+                  sex: {1x6 cell}
+                  age: {'22'  '22'  '22'  '22'  '22'  '22'}
+       subject_number: {[1]  [1]  [1]  [1]  [1]  [1]}
+          timeElapsed: [5 3 3 2 2 2]
+
+Current stimulus:
+    'a07_c2.jpg'
+
+Reference image:
+a08_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a04_c2.jpg
+    82
+
+Continue button pressed
+    ImageQuality: 82
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0]
+           image_file: {1x7 cell}
+         ImageQuality: [83 72 73 81 84 87 82]
+    evaluation_number: [1 2 3 4 5 6 7]
+              subject: {1x7 cell}
+                  sex: {1x7 cell}
+                  age: {1x7 cell}
+       subject_number: {[1]  [1]  [1]  [1]  [1]  [1]  [1]}
+          timeElapsed: [5 3 3 2 2 2 2]
+
+Current stimulus:
+    'a08_c2.jpg'
+
+Reference image:
+a04_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a03_c2.jpg
+    65
+
+Continue button pressed
+    ImageQuality: 65
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0]
+           image_file: {1x8 cell}
+         ImageQuality: [83 72 73 81 84 87 82 65]
+    evaluation_number: [1 2 3 4 5 6 7 8]
+              subject: {1x8 cell}
+                  sex: {1x8 cell}
+                  age: {1x8 cell}
+       subject_number: {1x8 cell}
+          timeElapsed: [5 3 3 2 2 2 2 2]
+
+Current stimulus:
+    'a03_c2.jpg'
+
+Reference image:
+a06_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a05_c2.jpg
+    77
+
+Continue button pressed
+    ImageQuality: 77
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0]
+           image_file: {1x9 cell}
+         ImageQuality: [83 72 73 81 84 87 82 65 77]
+    evaluation_number: [1 2 3 4 5 6 7 8 9]
+              subject: {1x9 cell}
+                  sex: {1x9 cell}
+                  age: {1x9 cell}
+       subject_number: {1x9 cell}
+          timeElapsed: [5 3 3 2 2 2 2 2 2]
+
+Current stimulus:
+    'a06_c2.jpg'
+
+Reference image:
+a01_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a07_c2.jpg
+    36
+
+Continue button pressed
+    ImageQuality: 36
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x10 cell}
+         ImageQuality: [83 72 73 81 84 87 82 65 77 36]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10]
+              subject: {1x10 cell}
+                  sex: {1x10 cell}
+                  age: {1x10 cell}
+       subject_number: {1x10 cell}
+          timeElapsed: [5 3 3 2 2 2 2 2 2 2]
+
+Current stimulus:
+    'a10_c2.jpg'
+
+Reference image:
+a08_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a15_c2.jpg
+    84
+
+Continue button pressed
+    ImageQuality: 84
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x11 cell}
+         ImageQuality: [83 72 73 81 84 87 82 65 77 36 84]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10 11]
+              subject: {1x11 cell}
+                  sex: {1x11 cell}
+                  age: {1x11 cell}
+       subject_number: {1x11 cell}
+          timeElapsed: [5 3 3 2 2 2 2 2 2 2 2]
+
+Current stimulus:
+    'a15_c2.jpg'
+
+Reference image:
+a02_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a06_c2.jpg
+    86
+
+Continue button pressed
+    ImageQuality: 86
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x12 cell}
+         ImageQuality: [1x12 double]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10 11 12]
+              subject: {1x12 cell}
+                  sex: {1x12 cell}
+                  age: {1x12 cell}
+       subject_number: {1x12 cell}
+          timeElapsed: [5 3 3 2 2 2 2 2 2 2 2 3]
+
+Current stimulus:
+    'a02_c2.jpg'
+
+Reference image:
+a11_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a05_c2.jpg
+Current stimulus:
+    'a11_c2.jpg'
+
+Reference image:
+a14_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a08_c2.jpg
+{Error using close (line 94)
+Invalid figure handle.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('display_stillACR_references', 'C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\display_stillACR_references.m', 51)" style="font-weight:bold">display_stillACR_references</a> (<a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\display_stillACR_references.m',51,0)">line 51</a>)
+                close(fig_mask)
+
+Error in <a href="matlab:helpUtils.errorDocCallback('ACR_sbu', 'C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\ACR_sbu.m', 232)" style="font-weight:bold">ACR_sbu</a> (<a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\ACR_sbu.m',232,0)">line 232</a>)
+        display_stillACR_references();
+
+Error in <a href="matlab:helpUtils.errorDocCallback('backgroundQuestions', 'C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\backgroundQuestions.m', 209)" style="font-weight:bold">backgroundQuestions</a> (<a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\backgroundQuestions.m',209,0)">line 209</a>)
+        ACR_sbu()
+} 
+Error while evaluating uicontrol Callback
+
+VQone
+Setup not loaded
+Setup loaded
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: 'contents'
+                                     cv2_name: 'images'
+                                     standard: 'ACR'
+                                         name: [1x11 char]
+                                    file_path: [1x72 char]
+                                         file: [1x19 char]
+                                    modifying: 0
+                                   first_time: 0
+                                     feedback: 0
+                                feedback_text: []
+                                      version: '0_94'
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: 0.5000
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: 'dynamic'
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: 'Reference'
+                               center_monitor: 'Stimulus'
+                                right_monitor: 'Disabled'
+                               bottom_monitor: 'Questions'
+                                  random_mode: 'serial'
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: 1120
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 700
+                               screens_info44: 500
+
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: 'contents'
+                                     cv2_name: 'images'
+                                     standard: 'ACR'
+                                         name: [1x11 char]
+                                    file_path: [1x72 char]
+                                         file: [1x19 char]
+                                    modifying: 0
+                                   first_time: 0
+                                     feedback: 0
+                                feedback_text: []
+                                      version: '0_94'
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: 0.5000
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: 'dynamic'
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: 'Reference'
+                               center_monitor: 'Stimulus'
+                                right_monitor: 'Disabled'
+                               bottom_monitor: 'Questions'
+                                  random_mode: 'serial'
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: 1120
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 700
+                               screens_info44: 500
+
+Subject: mikko
+Age: 35
+Sex: male
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: 'contents'
+                                     cv2_name: 'images'
+                                     standard: 'ACR'
+                                         name: [1x11 char]
+                                    file_path: [1x72 char]
+                                         file: [1x19 char]
+                                    modifying: 0
+                                   first_time: 0
+                                     feedback: 0
+                                feedback_text: []
+                                      version: '0_94'
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: 0.5000
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: 'dynamic'
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: 'Reference'
+                               center_monitor: 'Stimulus'
+                                right_monitor: 'Disabled'
+                               bottom_monitor: 'Questions'
+                                  random_mode: 'serial'
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: 1120
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 700
+                               screens_info44: 500
+
+Start Button Pressed
+{Warning: X values exactly equal to V are omitted.} 
+{> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2012a\toolbox\stats\stats\runstest.m',151,1)">runstest at 151</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\createRandomization.m',131,1)">createRandomization at 131</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\ACR_sbu.m',8,1)">ACR_sbu at 8</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\backgroundQuestions.m',209,1)">backgroundQuestions at 209</a>} 
+{Warning: X values exactly equal to V are omitted.} 
+{> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2012a\toolbox\stats\stats\runstest.m',151,1)">runstest at 151</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\createRandomization.m',132,1)">createRandomization at 132</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\ACR_sbu.m',8,1)">ACR_sbu at 8</a>
+  In <a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\backgroundQuestions.m',209,1)">backgroundQuestions at 209</a>} 
+CV1 not in random order. h0 rejected with p = 2.5787e-08
+CV2 in random order. h0 accepted with p = 0.87317
+Current stimulus vector distances from history entry No. 1: CV1: 0 and CV2: 43.0813
+Found similar cv1 vector...
+Current stimulus vector distances from history entry No. 2: CV1: 0 and CV2: 37.0135
+Found similar cv1 vector...
+Current stimulus vector distances from history entry No. 3: CV1: 10.9545 and CV2: 39.2683
+Found in total 2 similar cv1 vectors and 0 similar cv2 vectors from the history.
+Current stimulus:
+    'c11_c5.jpg'
+
+Reference image:
+c15_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c14_c5.jpg
+    67
+
+Continue button pressed
+    ImageQuality: 67
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: 0
+           image_file: {'c11_c5.jpg'}
+         ImageQuality: 67
+    evaluation_number: 1
+              subject: {'mikko'}
+                  sex: {'male'}
+                  age: {'35'}
+       subject_number: {[17]}
+          timeElapsed: 3
+
+Current stimulus:
+    'c08_c5.jpg'
+
+Reference image:
+c01_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c13_c5.jpg
+    74
+
+Continue button pressed
+    ImageQuality: 74
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0]
+           image_file: {'c11_c5.jpg'  'c08_c5.jpg'}
+         ImageQuality: [67 74]
+    evaluation_number: [1 2]
+              subject: {'mikko'  'mikko'}
+                  sex: {'male'  'male'}
+                  age: {'35'  '35'}
+       subject_number: {[17]  [17]}
+          timeElapsed: [3 2]
+
+Current stimulus:
+    'c12_c5.jpg'
+
+Reference image:
+c02_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c13_c5.jpg
+    74
+
+Continue button pressed
+    ImageQuality: 74
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0]
+           image_file: {1x3 cell}
+         ImageQuality: [67 74 74]
+    evaluation_number: [1 2 3]
+              subject: {'mikko'  'mikko'  'mikko'}
+                  sex: {'male'  'male'  'male'}
+                  age: {'35'  '35'  '35'}
+       subject_number: {[17]  [17]  [17]}
+          timeElapsed: [3 2 3]
+
+Current stimulus:
+    'c04_c5.jpg'
+
+Reference image:
+c02_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c13_c5.jpg
+    57
+
+Continue button pressed
+    ImageQuality: 57
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0]
+           image_file: {1x4 cell}
+         ImageQuality: [67 74 74 57]
+    evaluation_number: [1 2 3 4]
+              subject: {'mikko'  'mikko'  'mikko'  'mikko'}
+                  sex: {'male'  'male'  'male'  'male'}
+                  age: {'35'  '35'  '35'  '35'}
+       subject_number: {[17]  [17]  [17]  [17]}
+          timeElapsed: [3 2 3 3]
+
+Current stimulus:
+    'c10_c5.jpg'
+
+Reference image:
+c05_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c15_c5.jpg
+    80
+
+Continue button pressed
+    ImageQuality: 80
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0]
+           image_file: {1x5 cell}
+         ImageQuality: [67 74 74 57 80]
+    evaluation_number: [1 2 3 4 5]
+              subject: {1x5 cell}
+                  sex: {1x5 cell}
+                  age: {'35'  '35'  '35'  '35'  '35'}
+       subject_number: {[17]  [17]  [17]  [17]  [17]}
+          timeElapsed: [3 2 3 3 3]
+
+Current stimulus:
+    'c02_c5.jpg'
+
+Reference image:
+c03_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c08_c5.jpg
+    78
+
+Continue button pressed
+    ImageQuality: 78
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0]
+           image_file: {1x6 cell}
+         ImageQuality: [67 74 74 57 80 78]
+    evaluation_number: [1 2 3 4 5 6]
+              subject: {1x6 cell}
+                  sex: {1x6 cell}
+                  age: {'35'  '35'  '35'  '35'  '35'  '35'}
+       subject_number: {[17]  [17]  [17]  [17]  [17]  [17]}
+          timeElapsed: [3 2 3 3 3 2]
+
+Current stimulus:
+    'c06_c5.jpg'
+
+Reference image:
+c14_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c05_c5.jpg
+    82
+
+Continue button pressed
+    ImageQuality: 82
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0]
+           image_file: {1x7 cell}
+         ImageQuality: [67 74 74 57 80 78 82]
+    evaluation_number: [1 2 3 4 5 6 7]
+              subject: {1x7 cell}
+                  sex: {1x7 cell}
+                  age: {1x7 cell}
+       subject_number: {1x7 cell}
+          timeElapsed: [3 2 3 3 3 2 2]
+
+Current stimulus:
+    'c01_c5.jpg'
+
+Reference image:
+c10_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c09_c5.jpg
+    76
+
+Continue button pressed
+    ImageQuality: 76
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0]
+           image_file: {1x8 cell}
+         ImageQuality: [67 74 74 57 80 78 82 76]
+    evaluation_number: [1 2 3 4 5 6 7 8]
+              subject: {1x8 cell}
+                  sex: {1x8 cell}
+                  age: {1x8 cell}
+       subject_number: {1x8 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3]
+
+Current stimulus:
+    'c03_c5.jpg'
+
+Reference image:
+c15_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c02_c5.jpg
+    75
+
+Continue button pressed
+    ImageQuality: 75
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0]
+           image_file: {1x9 cell}
+         ImageQuality: [67 74 74 57 80 78 82 76 75]
+    evaluation_number: [1 2 3 4 5 6 7 8 9]
+              subject: {1x9 cell}
+                  sex: {1x9 cell}
+                  age: {1x9 cell}
+       subject_number: {1x9 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2]
+
+Current stimulus:
+    'c09_c5.jpg'
+
+Reference image:
+c07_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c11_c5.jpg
+    73
+
+Continue button pressed
+    ImageQuality: 73
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x10 cell}
+         ImageQuality: [67 74 74 57 80 78 82 76 75 73]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10]
+              subject: {1x10 cell}
+                  sex: {1x10 cell}
+                  age: {1x10 cell}
+       subject_number: {1x10 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2]
+
+Current stimulus:
+    'c05_c5.jpg'
+
+Reference image:
+c13_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c11_c5.jpg
+    79
+
+Continue button pressed
+    ImageQuality: 79
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x11 cell}
+         ImageQuality: [67 74 74 57 80 78 82 76 75 73 79]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10 11]
+              subject: {1x11 cell}
+                  sex: {1x11 cell}
+                  age: {1x11 cell}
+       subject_number: {1x11 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2]
+
+Current stimulus:
+    'c13_c5.jpg'
+
+Reference image:
+c11_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c08_c5.jpg
+    79
+
+Continue button pressed
+    ImageQuality: 79
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x12 cell}
+         ImageQuality: [1x12 double]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10 11 12]
+              subject: {1x12 cell}
+                  sex: {1x12 cell}
+                  age: {1x12 cell}
+       subject_number: {1x12 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2 2]
+
+Current stimulus:
+    'c07_c5.jpg'
+
+Reference image:
+c06_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c15_c5.jpg
+    85
+
+Continue button pressed
+    ImageQuality: 85
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x13 cell}
+         ImageQuality: [1x13 double]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10 11 12 13]
+              subject: {1x13 cell}
+                  sex: {1x13 cell}
+                  age: {1x13 cell}
+       subject_number: {1x13 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2 2 2]
+
+Current stimulus:
+    'c15_c5.jpg'
+
+Reference image:
+c13_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c02_c5.jpg
+Continue button pressed
+    ImageQuality: 100
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x14 cell}
+         ImageQuality: [1x14 double]
+    evaluation_number: [1 2 3 4 5 6 7 8 9 10 11 12 13 14]
+              subject: {1x14 cell}
+                  sex: {1x14 cell}
+                  age: {1x14 cell}
+       subject_number: {1x14 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2 2 2 1]
+
+Current stimulus:
+    'c14_c5.jpg'
+
+Reference image:
+c13_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c02_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c09_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c01_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c12_c5.jpg
+    75
+
+Continue button pressed
+    ImageQuality: 75
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x15 cell}
+         ImageQuality: [1x15 double]
+    evaluation_number: [1x15 double]
+              subject: {1x15 cell}
+                  sex: {1x15 cell}
+                  age: {1x15 cell}
+       subject_number: {1x15 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2 2 2 1 2]
+
+Current stimulus:
+    'a02_c2.jpg'
+
+Reference image:
+a13_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a03_c2.jpg
+    70
+
+Continue button pressed
+    ImageQuality: 70
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x16 cell}
+         ImageQuality: [1x16 double]
+    evaluation_number: [1x16 double]
+              subject: {1x16 cell}
+                  sex: {1x16 cell}
+                  age: {1x16 cell}
+       subject_number: {1x16 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2 2 2 1 2 2]
+
+Current stimulus:
+    'a06_c2.jpg'
+
+Reference image:
+a05_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a07_c2.jpg
+    72
+
+Continue button pressed
+    ImageQuality: 72
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+           image_file: {1x17 cell}
+         ImageQuality: [1x17 double]
+    evaluation_number: [1x17 double]
+              subject: {1x17 cell}
+                  sex: {1x17 cell}
+                  age: {1x17 cell}
+       subject_number: {1x17 cell}
+          timeElapsed: [3 2 3 3 3 2 2 3 2 2 2 2 2 1 2 2 2]
+
+Current stimulus:
+    'a14_c2.jpg'
+
+Reference image:
+a05_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a13_c2.jpg
+    84
+
+Continue button pressed
+    ImageQuality: 84
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x18 double]
+           image_file: {1x18 cell}
+         ImageQuality: [1x18 double]
+    evaluation_number: [1x18 double]
+              subject: {1x18 cell}
+                  sex: {1x18 cell}
+                  age: {1x18 cell}
+       subject_number: {1x18 cell}
+          timeElapsed: [1x18 double]
+
+Current stimulus:
+    'a08_c2.jpg'
+
+Reference image:
+a07_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a12_c2.jpg
+    84
+
+Continue button pressed
+    ImageQuality: 84
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x19 double]
+           image_file: {1x19 cell}
+         ImageQuality: [1x19 double]
+    evaluation_number: [1x19 double]
+              subject: {1x19 cell}
+                  sex: {1x19 cell}
+                  age: {1x19 cell}
+       subject_number: {1x19 cell}
+          timeElapsed: [1x19 double]
+
+Current stimulus:
+    'a15_c2.jpg'
+
+Reference image:
+a03_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a05_c2.jpg
+    80
+
+Continue button pressed
+    ImageQuality: 80
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x20 double]
+           image_file: {1x20 cell}
+         ImageQuality: [1x20 double]
+    evaluation_number: [1x20 double]
+              subject: {1x20 cell}
+                  sex: {1x20 cell}
+                  age: {1x20 cell}
+       subject_number: {1x20 cell}
+          timeElapsed: [1x20 double]
+
+Current stimulus:
+    'a09_c2.jpg'
+
+Reference image:
+a11_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a02_c2.jpg
+    74
+
+Continue button pressed
+    ImageQuality: 74
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x21 double]
+           image_file: {1x21 cell}
+         ImageQuality: [1x21 double]
+    evaluation_number: [1x21 double]
+              subject: {1x21 cell}
+                  sex: {1x21 cell}
+                  age: {1x21 cell}
+       subject_number: {1x21 cell}
+          timeElapsed: [1x21 double]
+
+Current stimulus:
+    'a11_c2.jpg'
+
+Reference image:
+a01_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a06_c2.jpg
+    55
+
+Continue button pressed
+    ImageQuality: 55
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x22 double]
+           image_file: {1x22 cell}
+         ImageQuality: [1x22 double]
+    evaluation_number: [1x22 double]
+              subject: {1x22 cell}
+                  sex: {1x22 cell}
+                  age: {1x22 cell}
+       subject_number: {1x22 cell}
+          timeElapsed: [1x22 double]
+
+Current stimulus:
+    'a13_c2.jpg'
+
+Reference image:
+a12_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a09_c2.jpg
+    78
+
+Continue button pressed
+    ImageQuality: 78
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x23 double]
+           image_file: {1x23 cell}
+         ImageQuality: [1x23 double]
+    evaluation_number: [1x23 double]
+              subject: {1x23 cell}
+                  sex: {1x23 cell}
+                  age: {1x23 cell}
+       subject_number: {1x23 cell}
+          timeElapsed: [1x23 double]
+
+Current stimulus:
+    'a10_c2.jpg'
+
+Reference image:
+a03_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a09_c2.jpg
+    76
+
+Continue button pressed
+    ImageQuality: 76
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x24 double]
+           image_file: {1x24 cell}
+         ImageQuality: [1x24 double]
+    evaluation_number: [1x24 double]
+              subject: {1x24 cell}
+                  sex: {1x24 cell}
+                  age: {1x24 cell}
+       subject_number: {1x24 cell}
+          timeElapsed: [1x24 double]
+
+Current stimulus:
+    'a05_c2.jpg'
+
+Reference image:
+a14_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a13_c2.jpg
+    79
+
+Continue button pressed
+    ImageQuality: 79
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x25 double]
+           image_file: {1x25 cell}
+         ImageQuality: [1x25 double]
+    evaluation_number: [1x25 double]
+              subject: {1x25 cell}
+                  sex: {1x25 cell}
+                  age: {1x25 cell}
+       subject_number: {1x25 cell}
+          timeElapsed: [1x25 double]
+
+Current stimulus:
+    'a12_c2.jpg'
+
+Reference image:
+a13_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a08_c2.jpg
+    78
+
+Continue button pressed
+    ImageQuality: 78
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x26 double]
+           image_file: {1x26 cell}
+         ImageQuality: [1x26 double]
+    evaluation_number: [1x26 double]
+              subject: {1x26 cell}
+                  sex: {1x26 cell}
+                  age: {1x26 cell}
+       subject_number: {1x26 cell}
+          timeElapsed: [1x26 double]
+
+Current stimulus:
+    'a01_c2.jpg'
+
+Reference image:
+a03_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a09_c2.jpg
+    78
+
+Continue button pressed
+    ImageQuality: 78
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x27 double]
+           image_file: {1x27 cell}
+         ImageQuality: [1x27 double]
+    evaluation_number: [1x27 double]
+              subject: {1x27 cell}
+                  sex: {1x27 cell}
+                  age: {1x27 cell}
+       subject_number: {1x27 cell}
+          timeElapsed: [1x27 double]
+
+Current stimulus:
+    'a07_c2.jpg'
+
+Reference image:
+a10_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a12_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a14_c2.jpg
+    82
+
+Continue button pressed
+    ImageQuality: 82
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x28 double]
+           image_file: {1x28 cell}
+         ImageQuality: [1x28 double]
+    evaluation_number: [1x28 double]
+              subject: {1x28 cell}
+                  sex: {1x28 cell}
+                  age: {1x28 cell}
+       subject_number: {1x28 cell}
+          timeElapsed: [1x28 double]
+
+Current stimulus:
+    'a04_c2.jpg'
+
+Reference image:
+a12_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a14_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a03_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a01_c2.jpg
+    77
+
+Continue button pressed
+    ImageQuality: 77
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x29 double]
+           image_file: {1x29 cell}
+         ImageQuality: [1x29 double]
+    evaluation_number: [1x29 double]
+              subject: {1x29 cell}
+                  sex: {1x29 cell}
+                  age: {1x29 cell}
+       subject_number: {1x29 cell}
+          timeElapsed: [1x29 double]
+
+Current stimulus:
+    'a03_c2.jpg'
+
+Reference image:
+a12_c2.jpg
+Reference image:
+a06_c2.jpg
+Reference image:
+a11_c2.jpg
+Reference image:
+a10_c2.jpg
+Reference image:
+a02_c2.jpg
+Reference image:
+a13_c2.jpg
+Reference image:
+a08_c2.jpg
+Reference image:
+a05_c2.jpg
+Reference image:
+a07_c2.jpg
+Reference image:
+a09_c2.jpg
+Reference image:
+a01_c2.jpg
+Reference image:
+a15_c2.jpg
+Reference image:
+a04_c2.jpg
+Reference image:
+a14_c2.jpg
+    79
+
+Continue button pressed
+    ImageQuality: 79
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x30 double]
+           image_file: {1x30 cell}
+         ImageQuality: [1x30 double]
+    evaluation_number: [1x30 double]
+              subject: {1x30 cell}
+                  sex: {1x30 cell}
+                  age: {1x30 cell}
+       subject_number: {1x30 cell}
+          timeElapsed: [1x30 double]
+
+Current stimulus:
+    'b06_c3.jpg'
+
+Reference image:
+b04_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b07_c3.jpg
+    82
+
+Continue button pressed
+    ImageQuality: 82
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x31 double]
+           image_file: {1x31 cell}
+         ImageQuality: [1x31 double]
+    evaluation_number: [1x31 double]
+              subject: {1x31 cell}
+                  sex: {1x31 cell}
+                  age: {1x31 cell}
+       subject_number: {1x31 cell}
+          timeElapsed: [1x31 double]
+
+Current stimulus:
+    'b02_c3.jpg'
+
+Reference image:
+b14_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b03_c3.jpg
+    82
+
+Continue button pressed
+    ImageQuality: 82
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x32 double]
+           image_file: {1x32 cell}
+         ImageQuality: [1x32 double]
+    evaluation_number: [1x32 double]
+              subject: {1x32 cell}
+                  sex: {1x32 cell}
+                  age: {1x32 cell}
+       subject_number: {1x32 cell}
+          timeElapsed: [1x32 double]
+
+Current stimulus:
+    'b10_c3.jpg'
+
+Reference image:
+b01_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b11_c3.jpg
+    82
+
+Continue button pressed
+    ImageQuality: 82
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x33 double]
+           image_file: {1x33 cell}
+         ImageQuality: [1x33 double]
+    evaluation_number: [1x33 double]
+              subject: {1x33 cell}
+                  sex: {1x33 cell}
+                  age: {1x33 cell}
+       subject_number: {1x33 cell}
+          timeElapsed: [1x33 double]
+
+Current stimulus:
+    'b15_c3.jpg'
+
+Reference image:
+b06_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b10_c3.jpg
+    85
+
+Continue button pressed
+    ImageQuality: 85
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x34 double]
+           image_file: {1x34 cell}
+         ImageQuality: [1x34 double]
+    evaluation_number: [1x34 double]
+              subject: {1x34 cell}
+                  sex: {1x34 cell}
+                  age: {1x34 cell}
+       subject_number: {1x34 cell}
+          timeElapsed: [1x34 double]
+
+Current stimulus:
+    'b12_c3.jpg'
+
+Reference image:
+b06_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b04_c3.jpg
+    85
+
+Continue button pressed
+    ImageQuality: 85
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x35 double]
+           image_file: {1x35 cell}
+         ImageQuality: [1x35 double]
+    evaluation_number: [1x35 double]
+              subject: {1x35 cell}
+                  sex: {1x35 cell}
+                  age: {1x35 cell}
+       subject_number: {1x35 cell}
+          timeElapsed: [1x35 double]
+
+Current stimulus:
+    'b07_c3.jpg'
+
+Reference image:
+b02_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b03_c3.jpg
+    85
+
+Continue button pressed
+    ImageQuality: 85
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x36 double]
+           image_file: {1x36 cell}
+         ImageQuality: [1x36 double]
+    evaluation_number: [1x36 double]
+              subject: {1x36 cell}
+                  sex: {1x36 cell}
+                  age: {1x36 cell}
+       subject_number: {1x36 cell}
+          timeElapsed: [1x36 double]
+
+Current stimulus:
+    'b14_c3.jpg'
+
+Reference image:
+b04_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b12_c3.jpg
+    83
+
+Continue button pressed
+    ImageQuality: 83
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x37 double]
+           image_file: {1x37 cell}
+         ImageQuality: [1x37 double]
+    evaluation_number: [1x37 double]
+              subject: {1x37 cell}
+                  sex: {1x37 cell}
+                  age: {1x37 cell}
+       subject_number: {1x37 cell}
+          timeElapsed: [1x37 double]
+
+Current stimulus:
+    'b08_c3.jpg'
+
+Reference image:
+b13_C3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b06_c3.jpg
+    73
+
+Continue button pressed
+    ImageQuality: 73
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x38 double]
+           image_file: {1x38 cell}
+         ImageQuality: [1x38 double]
+    evaluation_number: [1x38 double]
+              subject: {1x38 cell}
+                  sex: {1x38 cell}
+                  age: {1x38 cell}
+       subject_number: {1x38 cell}
+          timeElapsed: [1x38 double]
+
+Current stimulus:
+    'b13_C3.jpg'
+
+Reference image:
+b08_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b10_c3.jpg
+    79
+
+Continue button pressed
+    ImageQuality: 79
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x39 double]
+           image_file: {1x39 cell}
+         ImageQuality: [1x39 double]
+    evaluation_number: [1x39 double]
+              subject: {1x39 cell}
+                  sex: {1x39 cell}
+                  age: {1x39 cell}
+       subject_number: {1x39 cell}
+          timeElapsed: [1x39 double]
+
+Current stimulus:
+    'b05_c3.jpg'
+
+Reference image:
+b11_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b08_c3.jpg
+    86
+
+Continue button pressed
+    ImageQuality: 86
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x40 double]
+           image_file: {1x40 cell}
+         ImageQuality: [1x40 double]
+    evaluation_number: [1x40 double]
+              subject: {1x40 cell}
+                  sex: {1x40 cell}
+                  age: {1x40 cell}
+       subject_number: {1x40 cell}
+          timeElapsed: [1x40 double]
+
+Current stimulus:
+    'b09_c3.jpg'
+
+Reference image:
+b15_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b12_c3.jpg
+    75
+
+Continue button pressed
+    ImageQuality: 75
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x41 double]
+           image_file: {1x41 cell}
+         ImageQuality: [1x41 double]
+    evaluation_number: [1x41 double]
+              subject: {1x41 cell}
+                  sex: {1x41 cell}
+                  age: {1x41 cell}
+       subject_number: {1x41 cell}
+          timeElapsed: [1x41 double]
+
+Current stimulus:
+    'b04_c3.jpg'
+
+Reference image:
+b10_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b13_C3.jpg
+    83
+
+Continue button pressed
+    ImageQuality: 83
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x42 double]
+           image_file: {1x42 cell}
+         ImageQuality: [1x42 double]
+    evaluation_number: [1x42 double]
+              subject: {1x42 cell}
+                  sex: {1x42 cell}
+                  age: {1x42 cell}
+       subject_number: {1x42 cell}
+          timeElapsed: [1x42 double]
+
+Current stimulus:
+    'b01_c3.jpg'
+
+Reference image:
+b03_c3.jpg
+Reference image:
+b12_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b02_c3.jpg
+    76
+
+Continue button pressed
+    ImageQuality: 76
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x43 double]
+           image_file: {1x43 cell}
+         ImageQuality: [1x43 double]
+    evaluation_number: [1x43 double]
+              subject: {1x43 cell}
+                  sex: {1x43 cell}
+                  age: {1x43 cell}
+       subject_number: {1x43 cell}
+          timeElapsed: [1x43 double]
+
+Current stimulus:
+    'b03_c3.jpg'
+
+Reference image:
+b12_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b11_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b06_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b15_c3.jpg
+    76
+
+Continue button pressed
+    ImageQuality: 76
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x44 double]
+           image_file: {1x44 cell}
+         ImageQuality: [1x44 double]
+    evaluation_number: [1x44 double]
+              subject: {1x44 cell}
+                  sex: {1x44 cell}
+                  age: {1x44 cell}
+       subject_number: {1x44 cell}
+          timeElapsed: [1x44 double]
+
+Current stimulus:
+    'b11_c3.jpg'
+
+Reference image:
+b12_c3.jpg
+Reference image:
+b09_c3.jpg
+Reference image:
+b02_c3.jpg
+Reference image:
+b10_c3.jpg
+Reference image:
+b08_c3.jpg
+Reference image:
+b15_c3.jpg
+Reference image:
+b07_c3.jpg
+Reference image:
+b03_c3.jpg
+Reference image:
+b13_C3.jpg
+Reference image:
+b04_c3.jpg
+Reference image:
+b01_c3.jpg
+Reference image:
+b05_c3.jpg
+Reference image:
+b14_c3.jpg
+Reference image:
+b06_c3.jpg
+    80
+
+Continue button pressed
+    ImageQuality: 80
+
+            cv1_order: [1x45 double]
+            cv2_order: [1x45 double]
+    reWatchReferences: [1x45 double]
+           image_file: {1x45 cell}
+         ImageQuality: [1x45 double]
+    evaluation_number: [1x45 double]
+              subject: {1x45 cell}
+                  sex: {1x45 cell}
+                  age: {1x45 cell}
+       subject_number: {1x45 cell}
+          timeElapsed: [1x45 double]
+
+Found in total 2 similar cv1 vectors and 0 similar cv2 vectors from the history.
+Similar vectors found from test numbers:
+     1
+     2
+
+Data saved to: C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\setups\DR_0_94\DR_0_94_data.xls

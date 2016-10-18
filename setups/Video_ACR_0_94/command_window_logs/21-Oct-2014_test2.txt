@@ -1,0 +1,252 @@
+Test for randomness using the runs test:
+CV1 in random order. h0 accepted with p = 0.2
+CV2 in random order. h0 accepted with p = 0.66667
+Current stimulus:
+    'head2.mp4'
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmppsPlaying
+Player volume:2
+    errorCount: 0
+
+    86
+
+    77
+
+    67
+
+Continue button pressed
+    Videoquality: 86
+       Sharpness: 77
+      Brightness: 67
+
+            cv1_order: [1 1 1 2 2 2]
+            cv2_order: [2 3 1 3 1 2]
+      reWatchStimulus: 0
+    reWatchReferences: 0
+           video_file: {'head2.mp4'}
+         Videoquality: 86
+            Sharpness: 77
+           Brightness: 67
+    evaluation_number: 1
+              subject: {'test2'}
+                  sex: {'male'}
+                  age: {'33'}
+       subject_number: {[2]}
+          timeElapsed: 5
+
+Current stimulus:
+    'head3.mp4'
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmppsPlaying
+Player volume:2
+    errorCount: 0
+
+    94
+
+    93
+
+    83
+
+Continue button pressed
+    Videoquality: 94
+       Sharpness: 93
+      Brightness: 83
+
+            cv1_order: [1 1 1 2 2 2]
+            cv2_order: [2 3 1 3 1 2]
+      reWatchStimulus: [0 0]
+    reWatchReferences: [0 0]
+           video_file: {'head2.mp4'  'head3.mp4'}
+         Videoquality: [86 94]
+            Sharpness: [77 93]
+           Brightness: [67 83]
+    evaluation_number: [1 2]
+              subject: {'test2'  'test2'}
+                  sex: {'male'  'male'}
+                  age: {'33'  '33'}
+       subject_number: {[2]  [2]}
+          timeElapsed: [5 5]
+
+Current stimulus:
+    'head1.mp4'
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmppsPlaying
+Player volume:2
+    errorCount: 0
+
+    87
+
+    91
+
+    77
+
+Continue button pressed
+    Videoquality: 87
+       Sharpness: 91
+      Brightness: 77
+
+            cv1_order: [1 1 1 2 2 2]
+            cv2_order: [2 3 1 3 1 2]
+      reWatchStimulus: [0 0 0]
+    reWatchReferences: [0 0 0]
+           video_file: {'head2.mp4'  'head3.mp4'  'head1.mp4'}
+         Videoquality: [86 94 87]
+            Sharpness: [77 93 91]
+           Brightness: [67 83 77]
+    evaluation_number: [1 2 3]
+              subject: {'test2'  'test2'  'test2'}
+                  sex: {'male'  'male'  'male'}
+                  age: {'33'  '33'  '33'}
+       subject_number: {[2]  [2]  [2]}
+          timeElapsed: [5 5 5]
+
+Current stimulus:
+    'sport3.mp4'
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmppsPlaying
+Player volume:2
+    errorCount: 0
+
+    91
+
+    83
+
+    76
+
+Continue button pressed
+    Videoquality: 91
+       Sharpness: 83
+      Brightness: 76
+
+            cv1_order: [1 1 1 2 2 2]
+            cv2_order: [2 3 1 3 1 2]
+      reWatchStimulus: [0 0 0 0]
+    reWatchReferences: [0 0 0 0]
+           video_file: {1x4 cell}
+         Videoquality: [86 94 87 91]
+            Sharpness: [77 93 91 83]
+           Brightness: [67 83 77 76]
+    evaluation_number: [1 2 3 4]
+              subject: {'test2'  'test2'  'test2'  'test2'}
+                  sex: {'male'  'male'  'male'  'male'}
+                  age: {'33'  '33'  '33'  '33'}
+       subject_number: {[2]  [2]  [2]  [2]}
+          timeElapsed: [5 5 5 5]
+
+Current stimulus:
+    'sport1.mp4'
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmppsPlaying
+Player volume:2
+    errorCount: 0
+
+    93
+
+    85
+
+    73
+
+Continue button pressed
+    Videoquality: 93
+       Sharpness: 85
+      Brightness: 73
+
+            cv1_order: [1 1 1 2 2 2]
+            cv2_order: [2 3 1 3 1 2]
+      reWatchStimulus: [0 0 0 0 0]
+    reWatchReferences: [0 0 0 0 0]
+           video_file: {1x5 cell}
+         Videoquality: [86 94 87 91 93]
+            Sharpness: [77 93 91 83 85]
+           Brightness: [67 83 77 76 73]
+    evaluation_number: [1 2 3 4 5]
+              subject: {'test2'  'test2'  'test2'  'test2'  'test2'}
+                  sex: {'male'  'male'  'male'  'male'  'male'}
+                  age: {'33'  '33'  '33'  '33'  '33'}
+       subject_number: {[2]  [2]  [2]  [2]  [2]}
+          timeElapsed: [5 5 5 5 5]
+
+Current stimulus:
+    'sport2.mp4'
+
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposOpeningUnknownURL
+wmposMediaOpen
+wmppsPlaying
+Player volume:2
+    errorCount: 0
+
+    92
+
+    86
+
+    76
+
+Continue button pressed
+    Videoquality: 92
+       Sharpness: 86
+      Brightness: 76
+
+            cv1_order: [1 1 1 2 2 2]
+            cv2_order: [2 3 1 3 1 2]
+      reWatchStimulus: [0 0 0 0 0 0]
+    reWatchReferences: [0 0 0 0 0 0]
+           video_file: {1x6 cell}
+         Videoquality: [86 94 87 91 93 92]
+            Sharpness: [77 93 91 83 85 86]
+           Brightness: [67 83 77 76 73 76]
+    evaluation_number: [1 2 3 4 5 6]
+              subject: {1x6 cell}
+                  sex: {1x6 cell}
+                  age: {'33'  '33'  '33'  '33'  '33'  '33'}
+       subject_number: {[2]  [2]  [2]  [2]  [2]  [2]}
+          timeElapsed: [5 5 5 5 5 5]
+
+Data saved to: C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v005\setups\Video_ACR_0_94\Video_ACR_0_94_data.xls

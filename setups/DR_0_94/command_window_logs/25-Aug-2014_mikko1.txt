@@ -1,0 +1,370 @@
+CV1 not in random order. h0 rejected with p = 2.5787e-08
+CV2 in random order. h0 accepted with p = 0.87317
+Current stimulus:
+    'c01_c5.jpg'
+
+Reference image:
+c02_c5.jpg
+Reference image:
+c15_c5.jpg
+Reference image:
+c12_c5.jpg
+Reference image:
+c06_c5.jpg
+Reference image:
+c13_c5.jpg
+Reference image:
+c11_c5.jpg
+Reference image:
+c14_c5.jpg
+Reference image:
+c08_c5.jpg
+Reference image:
+c03_c5.jpg
+Reference image:
+c07_c5.jpg
+Reference image:
+c05_c5.jpg
+Reference image:
+c10_c5.jpg
+Reference image:
+c04_c5.jpg
+Reference image:
+c09_c5.jpg
+    90
+
+    80
+
+    88
+
+    82
+
+Current stimulus:
+    'c13_c5.jpg'
+
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('ACR_sbu', 'C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v004\ACR_sbu.m', 229)" style="font-weight:bold">ACR_sbu</a> (<a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v004\ACR_sbu.m',229,0)">line
+229</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('backgroundQuestions', 'C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v004\backgroundQuestions.m', 209)" style="font-weight:bold">backgroundQuestions</a> (<a href="matlab: opentoline('C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v004\backgroundQuestions.m',209,0)">line 209</a>)
+        ACR_sbu()
+} 
+Interrupt while evaluating uicontrol Callback.
+
+close all
+VQone
+Setup loaded
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: [1x8 char]
+                                     cv2_name: [1x5 char]
+                                     standard: 'ACR'
+                                         name: [1x7 char]
+                                    file_path: [1x68 char]
+                                         file: [1x15 char]
+                                    modifying: 1
+                                   first_time: 1
+                                     feedback: 0
+                                feedback_text: []
+                                      version: [1x4 char]
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: [1x1 double]
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: [1x7 char]
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: [1x9 char]
+                               center_monitor: [1x8 char]
+                                right_monitor: [1x8 char]
+                               bottom_monitor: [1x9 char]
+                                  random_mode: [1x6 char]
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: [1x1 double]
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 600
+                               screens_info44: 376
+
+Settings saved to: C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v004\setups\DR_0_94\DR_0_94_sbu.mat
+Image Quality
+min
+max
+     0
+
+   100
+
+   100
+
+    50
+
+     1
+
+Image Quality
+min
+max
+     0
+
+   100
+
+   100
+
+    50
+
+     1
+
+
+userdata = 
+
+       isRandom: 'no'
+    flowControl: 'off'
+    stopMessage: 'Et vastannut kaikkiin kohtiin'
+      isTouched: 'false'
+       question: 'ImageQuality'
+     isPlotting: 'false'
+
+Setup saved to: C:\Users\msjnuuti\temp_mikko\VQONE_0.94_release_v004\setups\DR_0_94\qbu_state.mat
+     2
+     1
+
+
+handle =
+
+     2
+
+Setup loaded
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: [1x8 char]
+                                     cv2_name: [1x5 char]
+                                     standard: 'ACR'
+                                         name: [1x7 char]
+                                    file_path: [1x68 char]
+                                         file: [1x15 char]
+                                    modifying: 1
+                                   first_time: 1
+                                     feedback: 0
+                                feedback_text: []
+                                      version: [1x4 char]
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: [1x1 double]
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: [1x7 char]
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: [1x9 char]
+                               center_monitor: [1x8 char]
+                                right_monitor: [1x8 char]
+                               bottom_monitor: [1x9 char]
+                                  random_mode: [1x6 char]
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: [1x1 double]
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 600
+                               screens_info44: 376
+
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: [1x8 char]
+                                     cv2_name: [1x5 char]
+                                     standard: 'ACR'
+                                         name: [1x7 char]
+                                    file_path: [1x68 char]
+                                         file: [1x15 char]
+                                    modifying: 1
+                                   first_time: 1
+                                     feedback: 0
+                                feedback_text: []
+                                      version: [1x4 char]
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: [1x1 double]
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: [1x7 char]
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: [1x9 char]
+                               center_monitor: [1x8 char]
+                                right_monitor: [1x8 char]
+                               bottom_monitor: [1x9 char]
+                                  random_mode: [1x6 char]
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: [1x1 double]
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 600
+                               screens_info44: 376
+
+Subject: mikko2
+Age: 34
+Sex: male
+                                   cv1_locked: 1
+                                   cv2_locked: 0
+                                   cv1_random: 1
+                                   cv2_random: 1
+                                  dom_enabled: 0
+                                    dom_value: 1
+                                          cv1: 3
+                                          cv2: 15
+                                     cv1_name: [1x8 char]
+                                     cv2_name: [1x5 char]
+                                     standard: 'ACR'
+                                         name: [1x7 char]
+                                    file_path: [1x68 char]
+                                         file: [1x15 char]
+                                    modifying: 1
+                                   first_time: 1
+                                     feedback: 0
+                                feedback_text: []
+                                      version: [1x4 char]
+                                     old_name: []
+                                    sequences: []
+                              pair_repetition: []
+                                 viewing_time: 0
+                                   sel_player: 'WMP'
+                                  trial_count: []
+                              extra_questions: 0
+                                    time_step: 1
+                                     practice: 0
+               subject_response_plot_position: [1x4 double]
+    continuous_subject_response_plot_position: [1x4 double]
+                               max_difference: Inf
+                          referencing_enabled: 1
+                       dynamic_reference_time: [1x1 double]
+                                   ref_random: 1
+                          ref_exclude_current: 1
+                               ref_connecting: 'CV2'
+                                  ref_masking: []
+                                     ref_type: [1x7 char]
+                               reference_path: []
+                              reference1_path: []
+                              reference2_path: []
+                                   is_masking: []
+                                 left_monitor: [1x9 char]
+                               center_monitor: [1x8 char]
+                                right_monitor: [1x8 char]
+                               bottom_monitor: [1x9 char]
+                                  random_mode: [1x6 char]
+                              random_monitors: 0
+                       stimuli_in_one_monitor: 0
+                               screens_info11: 1
+                               screens_info12: 560
+                               screens_info13: 600
+                               screens_info14: 376
+                               screens_info21: 560
+                               screens_info22: 560
+                               screens_info23: 600
+                               screens_info24: 376
+                               screens_info31: [1x1 double]
+                               screens_info32: 560
+                               screens_info33: 600
+                               screens_info34: 376
+                               screens_info41: 200
+                               screens_info42: 37
+                               screens_info43: 600
+                               screens_info44: 376
+
+Start Button Pressed
